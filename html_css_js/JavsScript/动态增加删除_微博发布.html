@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        ul {
+            list-style: none;
+        }
+        .box {
+            margin: 100px auto;
+            width: 600px;
+            border: 1px solid #333;
+        }
+        textarea {
+            width: 450px;
+            resize: none;
+        }
+        .box li {
+            width: 450px;
+            line-height: 30px;
+            border-bottom: 1px dashed #ccc;
+            margin-left: 80px;
+        }
+        a {
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        微博发布：
+        <textarea rows="10" cols="30"></textarea>
+        <button type="submit">发布</button>
+    </div>
+</body>
+<script>
+    var btn = document.getElementsByTagName('button')[0];
+    var txt = document.getElementsByTagName('textarea')[0];
+    var ul = document.createElement('ul');
+    btn.parentNode.appendChild(ul);
+    btn.onclick = function() {
+        if(txt.value == '') {
+            alert('输入不能为空');
+            return false;
+        }
+        var li = document.createElement('li');
+        li.innerHTML = txt.value + "<a href='javascript:;'>删除</a>";
+        txt.value = '';
+
+        // 实现li插到最前面
+        var lis = ul.children;
+        if(lis.length == 0) {
+            ul.appendChild(li);
+        }
+        else {
+            ul.insertBefore(li, lis[0]);
+        }
+
+        // 实现删除
+        var del = document.getElementsByTagName('a');
+        for(var i = 0; i < del.length; i++) {
+            del[i].onclick = function() {
+                ul.removeChild(this.parentNode);
+            }
+        }
+    }
+</script>
+</html>

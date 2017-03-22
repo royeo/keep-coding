@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+</head>
+<body>
+<div class="dt"></div>
+<div class="dt demo"></div>
+<div class="dt"></div>
+</body>
+<script type="text/javascript">
+	function getClass(className) {
+		// 如果浏览器支持
+		if (document.getElementsByClassName) {
+			return document.getElementsByClassName(className);
+		}
+
+		// 如果浏览器不支持
+		var arr = [];
+		var dom = document.getElementsByTagName("*");
+		for(var i = 0; i < dom.length; i++) {
+			var txtArr = dom[i].className.split(" ");
+			for(var j = 0; j < txtArr.length; j++) {
+				if(txtArr[j] == className) {
+					arr.push(dom[i]);
+				}
+			}
+		}
+		return arr;
+	}
+	alert(getClass("dt").length)
+
+	function $(str) {
+		var symbol = str.charAt(0);	// 获取第一个字符
+		var select = str.substr(1);	// 获取第二个字符开始的全部字符
+		switch(symbol) {
+			case '#':
+				return document.getElementById(select);
+			case '.':
+				return getClass(select);
+			default:
+				return document.getElementsByTagName(select);
+		}
+	}
+</script>
+</html>

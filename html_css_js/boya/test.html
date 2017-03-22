@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style media="screen">
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: "Microsoft YaHei";
+    }
+    .cl {
+      clear: both;
+    }
+    .header {
+      height: 58px;
+      background-color: #191D3A;
+    }
+    .header .inner_c {
+      width: 1000px;
+      height: 58px;
+      margin: 0 auto;
+    }
+    .header .inner_c h1 {
+      padding-left: 15px;
+      float: left;
+      padding-right: 40px;
+    }
+    .header .inner_c .nav {
+      width: 607px;
+      height: 58px;
+      float: left;
+    }
+    .header .inner_c .nav ul {
+      list-style: none;
+    }
+    .header .inner_c .nav ul li {
+      width: 100px;
+      float: left;
+      line-height: 58px;
+      text-align: center;
+      border-left: 1px solid #252947;
+    }
+    .header .inner_c .nav ul li.last {
+      border-right: 1px solid #252947;
+    }
+    .header .inner_c .nav ul li a {
+      display: block;
+      width: 100px;
+      text-decoration: none;
+      color: white;
+      font-size: 14px;
+    }
+    .header .inner_c .nav ul li a:hover {
+      background-color: #252947;
+    }
+    .header .inner_c .jrwm {
+      float: left;
+      width: 100px;
+      height: 34px;
+      background-color: green;
+      margin-left: 48px;
+      text-align: center;
+      font-size: 12px;
+      line-height: 34px;
+      border-radius: 8px;
+      text-decoration: none;
+      color: white;
+      position: relative;
+      top: 12px;
+      left: 0;
+    }
+    .header .inner_c .jrwm:hover {
+      background-color: orange;
+    }
+    .banner {
+      height: 463px;
+      position: relative;
+      background: url(images/banner.jpg) no-repeat center top;
+    }
+    .banner .circles {
+      width: 120px;
+      height: 16px;
+      position: absolute;
+      bottom: 18px;
+      left: 50%;
+      margin-left: -60px;
+    }
+    .banner .circles ul {
+      list-style: none;
+      padding-top: 3px;
+    }
+    .banner .circles ul li {
+      float: left;
+      width: 12px;
+      height: 12px;
+      _font-size: 0;
+      background: blue url(images/dian1.png) no-repeat;
+      margin-right: 15px;
+      cursor: pointer;
+      border-radius: 10px;
+    }
+    .banner .circles ul li.last {
+      margin-right: 0;
+    }
+    .content {
+      height: 700px;
+      background: url(images/indexmainbg.jpg) no-repeat center bottom;
+    }
+    .content .inner_c {
+      width: 1000px;
+      height: 700px;
+      margin: 0 auto;
+      padding-top: 50px;
+    }
+    .content .inner_c .product {
+      height: 229px;
+      border-bottom: 1px solid gray;
+      position: relative;
+    }
+    .content .inner_c .product ul {
+      list-style: none;
+    }
+    .content .inner_c .product ul li {
+      float: left;
+      width: 218px;
+      height: 229px;
+      margin-right: 43px;
+    }
+    .content .inner_c .product ul li.last {
+      margin-right: 0;
+      width: 217px;
+    }
+    .content .inner_c .product ul li img {
+      width: 100%;
+      height: 130px;
+    }
+    .content .inner_c .product ul li h3 {
+      line-height: 38px;
+      font-size: 14px;
+      text-align: center;
+      font-weight: bold;
+    }
+    .content .inner_c .product ul li .djbf {
+      text-align: center;
+    }
+    .content .inner_c .product ul li .djbf a {
+      line-height: 12px;
+      font-size: 12px;
+      color: green;
+      text-decoration: none;
+      padding-right: 10px;
+      background: url(images/sanjiaoxing.png) no-repeat right center;
+    }
+    .content .inner_c .product .circles {
+      width: 117px;
+      height: 12px;
+      background-color: white;
+      position: absolute;
+      bottom:-6px;
+      left: 50%;
+      margin-left: -59px;
+    }
+    .content .inner_c .product .circles ul {
+      padding-left: 14px;
+    }
+    .content .inner_c .product .circles ul li {
+      float: left;
+      width: 12px;
+      height: 12px;
+      margin-right: 14px;
+      background-color: green;
+      border-radius: 10px;
+    }
+    .content .inner_c .product .circles ul li.last {
+      margin-right: 0px;
+    }
+    .content .inner_c .info {
+      padding-top: 53px;
+    }
+    .content .inner_c .info .news {
+      width: 500px;
+      float: left;
+      background: url(images/bynewsbg.jpg);
+      padding-top: 109px;
+      position: relative;
+    }
+    .content .inner_c .info .news ul {
+      list-style: none;
+      padding: 0 20px;
+    }
+    .content .inner_c .info .news ul li {
+      line-height: 50px;
+      border-bottom: 1px solid #E0E1E5;
+    }
+    .content .inner_c .info .news ul li span {
+      font-size: 12px;
+      color: #AFCCE4;
+      text-decoration: none;
+      font-size: 14px;
+      margin-right: 22px;
+    }
+    .content .inner_c .info .news ul li a{
+      color: #444866;
+    }
+    .content .inner_c .info .news .more {
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      top: 40px;
+      left: 210px;
+      background: url(images/more.png) no-repeat;
+    }
+    .content .inner_c .info .jobs {
+      width: 500px;
+      float: left;
+      height: 313px;
+      background: url(images/byhrbg3.jpg);
+    }
+    .footer {
+      height: 91px;
+      background-color: #191D3A;
+    }
+    .footer .inner_c {
+      width: 1000px;
+      margin: 0 auto;
+      background-color: red;
+      position: relative;
+    }
+    .footer .inner_c .left_part {
+      float: left;
+      width: 300px;
+      height: 91px;
+      line-height: 91px;
+      text-align: center;
+    }
+    .footer .inner_c .left_part a{
+      text-decoration: none;
+      color: gray;
+    }
+    .footer .inner_c .right_part {
+      float: left;
+      width: 700px;
+      height: 91px;
+      text-align: right;
+      line-height: 91px;
+      color: gray;
+    }
+    .jinghui {
+      position: relative;
+      top:20px;
+      left: 0;
+      width: 40px;
+    }
+  </style>
+</head>
+  <div class="header">
+    <div class="inner_c">
+      <h1><img src="images/logo.png" alt=""></h1>
+      <div class="nav">
+        <ul>
+          <li><a href="#">首页</a></li>
+          <li><a href="#">首页</a></li>
+          <li><a href="#">首页</a></li>
+          <li><a href="#">首页</a></li>
+          <li><a href="#">首页</a></li>
+          <li class="last"><a href="#">首页</a></li>
+        </ul>
+      </div>
+      <a href="#" class="jrwm">加入我们</a>
+    </div>
+  </div>
+  <body>
+  <div class="banner">
+    <div class="circles">
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li class="last"></li>
+      </ul>
+    </div>
+  </div>
+  <div class="content">
+    <div class="inner_c">
+      <div class="product">
+        <ul>
+          <li>
+            <p><img src="images/gamepic1.jpg" alt=""></p>
+            <h3>BPT宣传片</h3>
+            <p class="djbf"><a href="#">点击播放</a></p>
+          </li>
+          <li>
+            <p><img src="images/gamepic1.jpg" alt=""></p>
+            <h3>BPT宣传片</h3>
+            <p class="djbf"><a href="#">点击播放</a></p>
+          </li>
+          <li>
+            <p><img src="images/gamepic1.jpg" alt=""></p>
+            <h3>BPT宣传片</h3>
+            <p class="djbf"><a href="#">点击播放</a></p>
+          </li>
+          <li class="last">
+            <p><img src="images/gamepic1.jpg" alt=""></p>
+            <h3>BPT宣传片</h3>
+            <p class="djbf"><a href="#">点击播放</a></p>
+          </li>
+        </ul>
+        <div class="circles">
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li class="last"></li>
+          </ul>
+        </div>
+      </div>
+      <div class="info">
+        <div class="news">
+          <a href="" class="more"></a>
+          <ul>
+            <li><span>09 / 28</span><a href="#">新闻内容</a></li>
+            <li><span>09 / 28</span><a href="#">新闻内容</a></li>
+            <li><span>09 / 28</span><a href="#">新闻内容</a></li>
+            <li><span>09 / 28</span><a href="#">新闻内容</a></li>
+          </ul>
+        </div>
+        <div class="jobs"></div>
+      </div>
+    </div>
+  </div>
+  <div class="cl"></div>
+  <div class="footer">
+    <div class="inner_c">
+      <div class="left_part">
+        <a href="">网站地图</a>
+        <span>|</span>
+        <a href="">免责声明</a>
+      </div>
+      <div class="right_part">
+        我是说明，我是说明，我是说明，我是说明，我是说明
+        <img src="images/govIcon.gif" class="jinghui" alt="">
+      </div>
+    </div>
+  </div>
+</body>
+</html>

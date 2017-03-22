@@ -1,0 +1,391 @@
+/* css 初始化 */
+html, body, ul, li, ol, dl, dd, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img {margin: 0; padding:0;}
+fieldset, img, input, button { border: none; padding:0; margin: 0; outline-style: none;}
+ul, ol { list-style: none; }
+input { padding-top: 0; padding-bottom: 0; font-family: "SimSun","宋体";}
+select, input { vertical-align: middle;}
+select, input, textarea { font-size: 12px; margin: 0;}
+textarea { resize:none;}
+img { border: 0; vertical-align: middle;}
+table { border-collapse: collapse;}
+body {
+    font: 12px/150% Arial,Verdana,"\5b8b\4f53";
+    color:#666;
+    background: #fff;
+}
+.clearfix:before, .clearfix.after{
+    content:"";
+    display: table;
+}
+.clearfix:after{clear: both;}
+/*.clearfix { *zoom:1; }*/
+.clearfix { clear: both; }
+a{color:#666; text-decoration: none;}
+a:hover{color:#C81623;}
+h1,h2,h3,h4,h5,h6{text-decoration: none;font-weight: normal; font-size: 100%;}
+s,i,em{font-style: normal; text-decoration: none;}
+.col_red{ color:#C81623 !important;}
+
+/* 公共类 */
+.w{
+    width:1210px;
+    margin: 0 auto;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.al{
+    text-align: left;
+}
+.ac {
+    text-align: center;
+}
+.hide {
+    display: none;
+}
+
+/*头部导航开始*/
+.shortcut {
+    height: 30px;
+    line-height: 30px;
+    background-color: #F1F1F1;
+}
+.shortcut .dt {
+    padding:0 25px 0 10px;
+    position: relative;
+}
+.dt i {
+    font: 400 15px/15px "宋体";
+    position: absolute;
+    top: 13px;
+    right: 3px;
+    width: 15px;
+    height: 7px;
+    overflow: hidden;
+}
+.dt s {
+    position: absolute;
+    top: -8px;
+    left: 0;
+}
+.fr li {
+    float: left;
+    padding: 0 10px;
+}
+.fr .line {
+    width: 1px;
+    height: 12px;
+    background-color: #ddd;
+    margin-top: 9px;
+    padding: 0;
+}
+.shortcut .tel-jd {
+    padding: 0 20px;
+}
+.tel{
+    position: absolute;
+    left: 0;
+    top: 5px;
+    width: 15px;
+    height: 20px;
+    background: url(../img/sprite.png) no-repeat;
+}
+
+/*广告*/
+.topbanner {
+    background-color: #ffccea;
+}
+.topbanner .advertising{
+    display: block;
+    height: 80px;
+    background: url(../img/advertising.png) no-repeat center top;
+}
+
+
+/*搜索栏*/
+.search-banner {
+    height: 170px;
+}
+.search-banner .logo img {
+    float: left;
+    box-shadow: 1px 1px 5px #888888;
+}
+.search-banner .w {
+    position: relative;
+}
+.search-banner .search {
+    float: left;
+    width: 538px;
+    height: 35px;
+    margin-top: 25px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -269px;
+}
+.search-banner .search input {
+    width: 450px;
+    height: 32px;
+    border: 2px solid #B61D1D;
+    padding-left: 4px;
+    color: #666;
+    font: 14px/32px "Microsoft YaHei";
+    float: left;
+}
+.search-banner .search button {
+    width: 80px;
+    height: 36px;
+    background-color: #B61D1D;
+    float: left;
+    font: 16px/36px "Microsoft YaHei";
+    color: #fff;
+    cursor: pointer;
+}
+.search-banner .car {
+    width: 96px;
+    padding-left: 43px;
+    float: right;
+    margin: 25px 65px 0 0;
+    border: 1px solid #DFDFDF;
+    line-height: 34px;
+    position: relative;
+}
+.search-banner .car .icon1 {
+    position: absolute;
+    right: 105px;
+    top: 8px;
+    width: 18px;
+    height: 16px;
+    background: url(../img/sprite.png) no-repeat 0 -57px;
+}
+.search-banner .car .icon2 {
+    font: 400 13px/13px "simsun";
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.search-banner .car .icon3 {
+    position: absolute;
+    top: -5px;
+    width: 16px;
+    line-height: 14px;
+    background-color: #C81623;
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+    border-radius: 7px 7px 7px 0;;
+}
+.search-banner .hotwords {
+    width: 500px;
+    padding: 7px 0;
+    float: left;
+    position: absolute;
+    top: 61px;
+    left: 50%;
+    margin-left: -269px;
+}
+.search-banner .hotwords a {
+    padding-right: 6px;
+}
+
+/*nav部分*/
+.jd-nav{
+    width: 100%;
+    height: 44px;
+    border-bottom: 2px solid #B1191A;
+}
+.dropdown {
+    height: 44px;
+    width: 210px;
+    float: left;
+    background-color: #B1191A;
+    position: relative;
+    z-index: 10;
+    overflow: visible;
+}
+.dropdown .dt {
+    height: 44px;
+}
+.dropdown .dt a {
+    display: block;
+    height: 44px;
+    font: 400 15px/44px "Microsoft YaHei";
+    background-color: #B1101A;
+    color: #fff;
+    padding-left: 10px;
+}
+.dropdown .dd {
+    height: 465px;
+    background-color: #C81623;
+    margin-top: 1px;
+}
+.dropdown .items {
+    padding-left: 10px;
+    height: 31px;
+    line-height: 31px;
+    color: #fff;
+    border-left: 1px solid #B61D1D;
+    font-size: 15px;
+    font-family: "微软雅黑";
+}
+.dropdown .items h3 {
+    float: left;
+}
+.dropdown .items span {
+    float: right;
+    padding-right: 15px;
+    font-family: "宋体";
+    font-weight: 600
+}
+.navitems {
+    width: 680px;
+    height: 44px;
+    float: left;
+}
+.navitems li {
+    float: left;
+}
+.navitems li a {
+    display: block;
+    color: #333;
+    font: 400 15px/44px "微软雅黑";
+    padding: 0 20px;
+}
+.navitems li a:hover {
+    color: #B1101A;
+}
+.bike {
+    width: 190px;
+    height: 44px;
+    float: right;
+}
+.bike a {
+    display: block;
+    height: 44px;
+    background: url(../img/bike.png) no-repeat;
+}
+
+/*底部*/
+.jd-footer {
+    margin-top: 1000px;
+}
+.service {
+    height: 300px;
+}
+.slogen {
+    height: 46px;
+    padding: 20px 0;
+    margin-bottom: 25px;
+    background-color: #F5F5F5;
+}
+.slogen .item {
+    float: left;
+    width: 247px;
+    position: relative;
+    padding-left: 45px;
+}
+.slogen .item .item_mod {
+    position: absolute;
+    width: 36px;
+    height: 42px;
+    left: 0;
+    top: 0;
+    text-indent: -9999px;
+    background: url(../img/ico_service.png) no-repeat;
+}
+.slogen .item .item_duo {
+    background-position: 0 0;
+}
+.slogen .item .item_kuai {
+    background-position: 0 -42px;
+}
+.slogen .item .item_hao {
+    background-position: 0 -86px;
+}
+.slogen .item .item_sheng {
+    background-position: 0 -129px;
+}
+.slogen .item p {
+    line-height: 42px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #444;
+    font-family: "Microsoft YaHei";
+}
+.service dl {
+    float: left;
+    width: 198px;
+}
+.service dt {
+    font-size: 16px;
+    height: 28px;
+    font-family: "Microsoft YaHei";
+}
+.service dd {
+    height: 20px;
+}
+.coverage {
+    float: left;
+    width: 210px;
+    height: 165px;
+}
+.coverage .dt {
+    text-align: center;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 10px;
+    font-family: "Microsoft YaHei";
+}
+.coverage p {
+    line-height: 18px;
+}
+.looklook {
+    text-align: right;
+    margin-top: 5px;
+}
+.againw {
+    border-top: 1px solid #E5E5E5;
+    padding-top: 23px;
+    text-align: center;
+}
+.links {
+    height: 25px;
+}
+.links a {
+    padding: 0 6px;
+}
+.copyright {
+    line-height: 18px;
+    margin-bottom: 10px;
+}
+.message a {
+    display: inline-block;
+    width: 103px;
+    height: 32px;
+    background-color: red;
+    overflow: hidden;
+    background: url(../img/ico_footer.png);
+    margin: 0 3px;
+    line-height: 1000px;
+}
+.message .foot-icon1 {
+    background-position: 0 -151px;
+}
+.message .foot-icon2 {
+    background-position: -104px -151px;
+}
+.message .foot-icon3 {
+    background-position: 0 -184px;
+}
+.message .foot-icon4 {
+    background-position: -104px -184px;
+}
+.message .foot-icon5 {
+    background-position: 0 -217px;
+}
+.message .foot-icon6 {
+    background-position: -104px -217px;
+}

@@ -1,0 +1,3348 @@
+[ 2017-02-13T11:39:28+08:00 ] ::1 /demo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Demo1
+
+[ 2017-02-13T11:39:30+08:00 ] 10.32.8.122 /demo1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Demo1
+
+[ 2017-02-13T11:39:30+08:00 ] 10.32.8.122 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-13T13:42:10+08:00 ] ::1 /think/shop/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T13:42:18+08:00 ] ::1 /think/shop/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T13:42:23+08:00 ] ::1 /think/shop/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T13:42:29+08:00 ] ::1 /think/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:User
+
+[ 2017-02-13T13:50:36+08:00 ] ::1 /think/shop/home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:40:28+08:00 ] 10.32.8.122 /demo1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Demo1
+
+[ 2017-02-13T19:40:28+08:00 ] 10.32.8.122 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-13T19:40:29+08:00 ] 10.32.8.122 /demo1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Demo1
+
+[ 2017-02-13T19:43:12+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-13T19:43:19+08:00 ] 127.0.0.1 /shop/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:26+08:00 ] 127.0.0.1 /think/shop/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Think
+
+[ 2017-02-13T19:43:35+08:00 ] 127.0.0.1 /shop/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:45+08:00 ] 127.0.0.1 /shop/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/top_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/top_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/top_6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/top_7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/1240803062307572427.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/1240802922410634065.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/1240803144788047486.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/111.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/1_thumb_G_1240902890710.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:43:48+08:00 ] 127.0.0.1 /shop/images/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:01+08:00 ] 127.0.0.1 /shop/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:05+08:00 ] 127.0.0.1 /shop/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:08+08:00 ] 127.0.0.1 /shop/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/top_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/top_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/top_6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/1240803062307572427.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/top_7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/1240803144788047486.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/1240802922410634065.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/111.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/1_thumb_G_1240902890710.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:11+08:00 ] 127.0.0.1 /shop/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:22+08:00 ] 127.0.0.1 /shop/index/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/top_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/top_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/top_7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/1240803062307572427.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/1240802922410634065.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/top_6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/1240803144788047486.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/111.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/1_thumb_G_1240902890710.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:44+08:00 ] 127.0.0.1 /shop/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/top_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/top_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/top_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/top_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/top_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/1240803062307572427.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/top_7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/1240802922410634065.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/top_6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/1240803144788047486.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/1_thumb_G_1240902890710.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/111.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T19:44:49+08:00 ] 127.0.0.1 /shop/images/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:06:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-13T21:08:06+08:00 ] 127.0.0.1 /shop/Home/Public/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:08:06+08:00 ] 127.0.0.1 /shop/Home/Public/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:07+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/bnt_ur_log.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:07+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:07+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/header_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:07+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:07+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/NavBg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:18+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:18+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:18+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/header_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:18+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/NavBg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:18+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/bnt_ur_log.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:19+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:19+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/header_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:19+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/NavBg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:19+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/bnt_ur_log.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:19+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:20+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:20+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/NavBg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:20+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:20+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/bnt_ur_log.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:20+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/header_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:20+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-13T21:11:31+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/bnt_ur_log.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:31+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/header_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:31+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/NavBg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:31+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:31+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:32+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:32+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/bnt_ur_log.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:32+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/NavBg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:32+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/header_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:32+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:34+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/NavBg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:50+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/NavBg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:50+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/header_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:50+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:50+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:50+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/bnt_ur_log.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:54+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:54+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/user_tit1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:54+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/bnt_ur_log.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:54+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/NavBg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:11:54+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/header_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:12:37+08:00 ] 127.0.0.1 /shop/Home/Public/css/images/NavBg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:12:40+08:00 ] 127.0.0.1 /shop/Home/Public/images/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:12:40+08:00 ] 127.0.0.1 /shop/Home/Public/images/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:12:40+08:00 ] 127.0.0.1 /shop/Home/Public/images/usBox_2bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T21:15:10+08:00 ] 127.0.0.1 /shop/Home/Public/images/zoomin.cur
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/images/admin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/images/user_botton.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/images/admin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/images/user_botton.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/images/admin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/images/user_botton.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/images/admin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/images/user_botton.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/images/admin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/images/user_botton.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:09+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:10+08:00 ] 127.0.0.1 /shop/Admin/Public/images/admin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:10+08:00 ] 127.0.0.1 /shop/Admin/Public/images/user_botton.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:10+08:00 ] 127.0.0.1 /shop/Admin/Public/images/admin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:10+08:00 ] 127.0.0.1 /shop/Admin/Public/images/user_botton.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:10+08:00 ] 127.0.0.1 /shop/Admin/Public/images/admin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:10+08:00 ] 127.0.0.1 /shop/Admin/Public/images/user_botton.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:10+08:00 ] 127.0.0.1 /shop/Admin/Public/images/admin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:10+08:00 ] 127.0.0.1 /shop/Admin/Public/images/user_botton.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:48+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:49+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:50+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:07:59+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:36+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:37+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:08:56+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:10:00+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:11:54+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:04+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:05+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:07+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:08+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:19+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:31+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_bottom_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_all_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_c.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_validatecode.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_password.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_top_r.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_login_name.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+
+[ 2017-02-13T22:12:32+08:00 ] 127.0.0.1 /shop/Admin/Public/css/img/user_main_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop
+

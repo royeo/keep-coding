@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+	<style media="screen">
+		/*如果都是标准流或浮动，想提升一个盒子，那么给盒子加定位；*/
+		/*.test {
+			width: 150px;
+			height: 300px;
+			border: 1px solid #ccc;
+			margin-top: 100px;
+			float: left;
+			margin-left: -1px;
+		}
+		.test:hover {
+			border: 1px solid #f40;
+			position: relative;
+		}*/
+
+		/*如果盒子已经定位了，想提升一个盒子，那么给盒子加z-index*/
+		.test {
+			width: 150px;
+			height: 300px;
+			border: 1px solid #ccc;
+			margin-top: 100px;
+			float: left;
+			margin-left: -1px;
+			position: relative;
+		}
+		.test:hover {
+			border: 1px solid #f40;
+			z-index: 1;
+		}
+	</style>
+</head>
+<body>
+	<div class="test"></div>
+	<div class="test"></div>
+	<div class="test"></div>
+	<div class="test"></div>
+	<div class="test"></div>
+</body>
+</html>

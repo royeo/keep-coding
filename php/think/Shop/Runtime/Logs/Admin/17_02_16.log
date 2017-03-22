@@ -1,0 +1,54 @@
+[ 2017-02-16T11:06:07+08:00 ] ::1 /shop/index.php/admin/goods
+ERR: 非法操作:index
+
+[ 2017-02-16T11:06:14+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:10:27+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:17:20+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:17:23+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:17:27+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shop.sw_english' doesn't exist
+
+[ 2017-02-16T11:17:30+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:25:23+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:25:39+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:25:59+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:26:00+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:26:03+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:26:04+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:26:04+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:26:08+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:26:09+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:26:19+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-02-16T11:26:26+08:00 ] ::1 /shop/index.php/admin/goods/show
+ERR: Syntax Error in template "D:/XAMPP/htdocs/think/Shop/Admin/View\Goods\show.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+

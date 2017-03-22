@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style media="screen">
+      .box {
+        width: 100px;
+        height: 100px;
+        background-color: pink;
+        margin-top: 100px;
+        position: relative;
+      }
+  </style>
+</head>
+<body>
+  <button id="move">点击</button>
+  <div class="box" id="Box"></div>
+</body>
+<script>
+  var move = document.getElementById('move');
+  var box = document.getElementById('Box');
+  var timer = null;
+  var leader = 0;
+  var target = 500;
+  move.onclick = function() {
+    setInterval(function() {
+      leader = leader + (target - leader) / 50;
+      box.style.left = leader + 'px';
+    }, 30);
+  }
+</script>
+</html>

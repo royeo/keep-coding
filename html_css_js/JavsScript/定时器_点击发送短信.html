@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body> <input type="text"> <button id="btn">点击发送短信</button> </body>
+
+</html>
+<script>
+    var btn = document.getElementById('btn');
+    var count = 3;
+    var timer = null;
+    btn.onclick = function () {
+        clearInterval(timer);
+        this.disabled = true; // button变为不可用的 
+        timer = setInterval(sendTextMessage, 1000); 
+        function sendTextMessage() { 
+            count--; 
+            if(count == 0) { 
+                count = 3; 
+                btn.innerHTML = "重新发送短信"; 
+                btn.disabled = false; clearInterval(timer); 
+            } 
+            else { 
+                btn.innerHTML = "还剩余" + count + "秒"; 
+            } 
+        } 
+    }
+</script>

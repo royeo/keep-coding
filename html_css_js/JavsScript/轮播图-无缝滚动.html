@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        /*去掉图片底部3像素的空隙*/
+        img {
+            vertical-align: top;
+        }
+        .box {
+            width: 700px;
+            height: 270px;
+            margin: 100px auto;
+            overflow: hidden;
+        }
+        .box ul {
+            list-style: none;
+            width: 300%;
+            position: relative;;
+        }
+        .box li {
+            float: left;
+        }
+    </style>
+</head>
+<body>
+    <!--原理：复制第一张和第二张放到最后，当滑到最后的时间直接返回到开头-->
+    <div class="box" id="scroll">
+        <ul>
+            <li><img src="img/1.jpg" alt=""></li>
+            <li><img src="img/2.jpg" alt=""></li>
+            <li><img src="img/3.jpg" alt=""></li>
+            <li><img src="img/4.jpg" alt=""></li>
+            <li><img src="img/1.jpg" alt=""></li>
+            <li><img src="img/2.jpg" alt=""></li>
+        </ul>
+    </div>
+</body>
+<script>
+    var scroll = document.getElementById('scroll');
+    var ul = scroll.children[0];
+    var num = 0;
+    var timer = null;
+    timer = setInterval(autoPlay, 30);
+    function autoPlay() {
+        num = num <= -1400 ? 0 : num - 10;
+        ul.style.left = num + 'px';
+    }
+    scroll.onmouseover = function() {
+      clearInterval(timer);
+    }
+    scroll.onmouseout = function() {
+      timer = setInterval(autoPlay, 30);
+    }
+</script>
+</html>

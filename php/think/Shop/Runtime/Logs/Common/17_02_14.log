@@ -1,0 +1,27 @@
+[ 2017-02-14T05:39:37+08:00 ] 10.32.8.122 /shop/index.php/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Head
+
+[ 2017-02-14T05:39:37+08:00 ] 10.32.8.122 /shop/index.php/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Left
+
+[ 2017-02-14T05:39:37+08:00 ] 10.32.8.122 /shop/index.php/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Right
+
+[ 2017-02-14T14:38:27+08:00 ] 10.32.8.122 /shop/index.php/user/login
+ERR: 无法加载模块:User
+
+[ 2017-02-14T14:38:57+08:00 ] 10.32.8.122 /shop/index.php/user/login
+ERR: 无法加载模块:User
+
+[ 2017-02-14T14:38:59+08:00 ] 10.32.8.122 /shop/index.php/user/login
+ERR: 无法加载模块:User
+

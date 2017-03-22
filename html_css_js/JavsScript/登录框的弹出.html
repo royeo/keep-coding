@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+	<style media="screen">
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		body {
+			height: 1200px;
+		}
+		a {
+			display: block;
+			font: 400 12px/30px "宋体";
+			width: 100px;
+			height: 30px;
+			background-color: #E3E3E3;
+			text-align: center;
+			text-decoration: none;
+			color: red;
+			margin: 100px auto;
+		}
+		.mask {
+			width: 100%;
+			height: 100%;
+			background: rgba(0, 0, 0, .5);
+			position: fixed;
+			top: 0;
+			left: 0;
+			z-index: 999;
+			display: none;
+		}
+		.login-box {
+			width: 400px;
+			height: 300px;
+			background-color: #fff;
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			margin-left: -200px;
+			margin-top: -150px;
+			z-index: 1000;
+			display: none;
+		}
+		.close {
+			display: block;
+			height: 30px;
+			line-height: 30px;
+			width: 30px;
+			text-align: center;
+			position: absolute;
+			right: 0;
+			top: 0;
+			cursor: pointer;
+		}
+	</style>
+</head>
+<body>
+	<a href="#" id="login">登录</a>
+	<div class="mask" id="mask"></div>
+	<div class="login-box" id="login-box">
+		<span class="close" id="close">×</span>
+	</div>
+</body>
+<script type="text/javascript">
+	var loginBtn = document.getElementById('login');
+	var mask = document.getElementById('mask');
+	var loginBox = document.getElementById('login-box');
+	var close = document.getElementById('close');
+	loginBtn.onclick = function() {
+		mask.style.display = "block";
+		loginBox.style.display = "block"
+	}
+	close.onclick = function() {
+		mask.style.display = "none";
+		loginBox.style.display = "none";
+	}
+</script>
+</html>

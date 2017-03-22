@@ -1,0 +1,147 @@
+.banner604 {
+	position: relative;
+}
+.banner604 a {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 604px;
+	background: url(../img/bg.png) no-repeat top center;
+}
+.main {
+	position: relative;
+}
+.slide {
+	width: 730px;
+	height: 453px;
+	background-color: pink;
+	margin: 12px 0 0 220px;
+	float: left;
+	position: relative;
+}
+.slide .pic {
+	display: block;
+	height: 453px;
+}
+.circle {
+	position: absolute;
+	left: 50%;
+	bottom: 8px;
+	margin-left: -66px;
+}
+.circle li {
+	width: 18px;
+	height: 18px;
+	float: left;
+	text-align: center;
+	line-height: 18px;
+	margin: 0 2px;
+	border-radius: 50%;
+	background-color: #3E3E3E;
+	color: #fff;
+	cursor: pointer;
+}
+.arrow-l, .arrow-r {
+	position: absolute;
+	width: 28px;
+	height: 62px;
+    background: rgba(0,0,0,0.5);
+	top: 50%;
+	margin-top: -31px;
+	text-align: center;
+	color: #fff;
+	font:500 18px/62px "宋体";
+}
+.arrow-l:hover, .arrow-r:hover {
+	background: rgba(0, 0, 0, 0.4);
+}
+.arrow-l {
+	left: 0;
+}
+.arrow-r {
+	right: 0;
+}
+.news {
+	width: 234px;
+	height: 451px;
+	border: 1px solid #E4E4E4;
+	float: left;
+	margin: 12px 0 0 12px;
+}
+.jd-news {
+	height: 200px;
+	border-bottom: 1px dotted #E4E4E4;
+}
+.jd-news .dt, .life-service .dt {
+	height: 43px;
+	line-height: 43px;
+	border-bottom: 1px dotted #E8E8E7;
+}
+.jd-news .dt h3, .life-service .dt h3 {
+	float: left;
+	font: 14px/43px "微软雅黑";
+	color: #666;
+	padding-left: 15px;
+}
+.jd-news .dt a {
+	float: right;
+	font: 13px/43px "宋体";
+	padding-right: 15px;
+}
+.jd-news .dd ul {
+	padding: 8px 0 0 15px;
+}
+.jd-news .dd li {
+	line-height: 28px;
+}
+.jd-news .dd li span {
+	font-weight: 700;
+	padding-right: 5px;
+}
+.life-service {
+	overflow: hidden;
+	height: 251px;
+}
+.life-service ul {
+	width: 249px;
+}
+.life-service li {
+	width: 58px;
+	height: 68px;
+	border: 1px solid #E4E4E4;
+	float: left;
+	margin: -1px 0 0 -1px;
+}
+.life-service li i {
+	margin-left: 16px;
+	display: block;
+	height: 24px;
+	background: url(../img/sprite_fs.png) no-repeat -132px -88px;
+}
+.life-service li a {
+	display: block;
+	height: 68px;
+	text-align: center;
+	padding-top: 14px;
+}
+.life-service .dd {
+	border-top: 1px dotted #E8E8E7;
+	overflow: hidden;
+}
+
+/*双十一活动*/
+.todays {
+	position: relative;
+}
+.night {
+	margin: 10px 0 28px 0;
+}
+.night-l {
+	float: left;
+}
+.night-r{
+	width: 1000px;
+	height: 160px;
+	float: left;
+}

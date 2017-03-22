@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style media="screen">
+    *{margin: 0;padding: 0}
+    img{vertical-align: top}
+    .box {
+      width: 350px;
+      height: 270px;
+      margin: 100px auto;
+      position: relative;
+      overflow: hidden;
+    }
+    .box ul {
+      width: 400%;
+      list-style: none;
+      position: relative;
+    }
+    .box li {
+      float: left;
+    }
+    .box .circle {
+      position: absolute;
+      width: 112px;
+      bottom: 0;
+      left: 50%;
+      margin-left: -56px;
+    }
+    .box .circle li {
+      float: left;
+      width: 18px;
+      height: 18px;
+      margin: 0 5px;
+      background-color: red;
+      color: #fff;
+      border-radius: 50%;
+      text-align: center;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="box" id="scroll">
+    <ul >
+      <li><img src="img/1.jpg"/></li>
+      <li><img src="img/2.jpg"/></li>
+      <li><img src="img/3.jpg"/></li>
+      <li><img src="img/4.jpg"/></li>
+    </ul>
+    <ul class="circle" id="cir">
+      <li>1</li>
+      <li>2</li>
+      <li>3</li>
+      <li>4</li>
+    </ul>
+  </div>
+</body>
+<script>
+  var scroll = document.getElementById('scroll');
+  var img = scroll.children[0];
+  var li2 = document.getElementById('li2');
+  var num = 0;
+  var timer = null;
+  var picW = 350;
+
+  var lis = document.getElementById('cir').getElementsByTagName('li');
+  for(var i = 0; i < lis.length; i++) {
+    lis[i].index = i;
+    lis[i].onmouseover = function() {
+      var that = this;
+      clearInterval(timer);
+      timer = setInterval(function() {
+          if(num == -(picW * that.index)) {
+            clearInterval(timer);
+          }
+          else if(num < -(picW * that.index)) {
+            num +=10;
+            img.style.left = num + 'px';
+          }
+          else if(num > -(picW * that.index)) {
+            num -= 10;
+            img.style.left = num + 'px';
+          }
+        // }
+      }, 10);
+    }
+  }
+</script>
+</html>

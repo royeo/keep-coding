@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+	<style media="screen">
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		.search {
+			width: 300px;
+			height: 30px;
+			margin: 100px auto;
+			position: relative;
+		}
+		.search input {
+			width: 195px;
+			height: 30px;
+			line-height: 30px;
+			outline-style: none;
+			padding-left: 5px;
+		}
+		.search label {
+			font-size: 12px;
+			color: #ccc;
+			position: absolute;
+			top: 9px;
+			left: 10px;
+			cursor: text;
+		}
+	</style>
+</head>
+<body>
+	<div class="search">
+		<input type="text" id="txt">
+		<label for="txt" id="hint">必败的国际大牌</label>
+	</div>
+</body>
+<script type="text/javascript">
+	function $(id) {
+		return document.getElementById(id);
+	}
+	$("txt").oninput = $("txt").onpropertychange = function() {
+		if(this.value == "") {
+			$("hint").style.display = "block";
+		}
+		else {
+			$("hint").style.display = "none";
+		}
+	}
+</script>
+</html>

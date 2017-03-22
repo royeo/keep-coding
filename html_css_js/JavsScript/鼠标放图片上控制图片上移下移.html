@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        * {margin: 0; padding: 0}
+        .long {
+            width: 600px;
+            height: 600px;
+            border: 1px solid #f00;
+            overflow: hidden;
+            margin: 100px auto;
+            position: relative;
+        }
+        .long span {
+            position: absolute;
+            left: 0;
+            height: 300px;
+            width: 100%;
+            cursor: pointer;
+        }
+        .long .up {
+            top:0;
+        }
+        .long .down {
+            bottom:0;
+        }
+        #pic {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="long" id="box">
+        <img src="img/long.jpg" alt="" id="pic">
+        <span class="up" id="picUp"></span>
+        <span class="down" id="picDown"></span>
+    </div>
+</body>
+<script>
+    function $(id) {
+        return document.getElementById(id);
+    }
+    var num = 0;
+    var timer = null;
+    $('picUp').onmouseover = function() {
+        clearInterval(timer);
+        timer = setInterval(function(){
+            num -= 3;
+            num >= (-1822 + 600) ? $('pic').style.top = num + 'px' : clearInterval(timer);
+        }, 10);
+    }
+
+    $('picDown').onmouseover = function() {
+        clearInterval(timer);
+        timer = setInterval(function(){
+            num++;
+            num < 0 ? $('pic').style.top = num + 'px' : clearInterval(timer);
+        }, 10);
+    }
+
+    $('box').onmouseout = function() {
+        clearInterval(timer);
+    }
+</script>
+</html>

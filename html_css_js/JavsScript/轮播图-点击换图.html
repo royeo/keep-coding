@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+	<style media="screen">
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		.w {
+			width: 350px;
+			margin: 0 auto;
+			position: relative;
+		}
+		ul {
+			list-style: none;
+			position: absolute;
+			left: 50%;
+			bottom: 0;
+			margin-left: -96px;
+		}
+		ul li {
+			float: left;
+			width: 20px;
+			height: 20px;
+			line-height: 20px;
+			background-color: #3E3E3E;
+			border-radius: 50%;
+			margin: 0 6px;
+			text-align: center;
+			color: #fff;
+			cursor: pointer;
+		}
+		.arrow {
+			display: none;
+		}
+		.arrow-l, .arrow-r {
+			width: 28px;
+			height: 62px;
+			position: absolute;
+			background: rgba(0,0,0,0.5);
+			top: 50%;
+			margin-top: -31px;
+			text-align: center;
+			font:500 18px/62px "宋体";
+			color: #fff;
+			cursor: pointer;
+		}
+		.arrow-l:hover, .arrow-r:hover {
+			background: rgba(0, 0, 0, 0.4);
+		}
+		.arrow-l {
+			left: 0;
+		}
+		.arrow-r {
+			right: 0;
+		}
+		.col_red {
+			background-color: red;
+		}
+	</style>
+</head>
+<body>
+	<div class="w" id="slide">
+		<a href="#" class="picture"><img src="img/1.jpg" alt="" id="pic"></a>
+		<ul>
+			<li id="li01">1</li>
+			<li id="li02">2</li>
+			<li id="li03">3</li>
+			<li id="li04">4</li>
+			<li id="li05">5</li>
+		</ul>
+		<div class="arrow" id="arr">
+			<div class="arrow-l" id="arr-l"><</div>
+			<div class="arrow-r" id="arr-r">></div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		function $(id) {
+			return document.getElementById(id);
+		}
+
+		// 左右切图按钮的显示与隐藏
+		$("slide").onmouseover = function() {
+			$("arr").style.display = "block";
+		}
+		$("slide").onmouseout = function() {
+			$("arr").style.display = "none";
+		}
+
+		// 左右切图按钮的点击
+		$("arr-l").onclick = function() {
+			$("pic").src = "img/1.jpg";
+		}
+		$("arr-r").onclick = function() {
+			$("pic").src = "img/2.jpg";
+		}
+
+		// 切换图片的小圆点
+		$("li01").onmouseover = function() {
+			$("pic").src = "img/1.jpg";
+		}
+		$("li02").onmouseover = function() {
+			$("pic").src = "img/2.jpg";
+		}
+		$("li03").onmouseover = function() {
+			$("pic").src = "img/3.jpg";
+		}
+		$("li04").onmouseover = function() {
+			$("pic").src = "img/4.jpg";
+		}
+		$("li05").onmouseover = function() {
+			$("pic").src = "img/5.jpg";
+		}
+	</script>
+</body>
+</html>

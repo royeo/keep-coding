@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+	<style media="screen">
+		.box {
+			width: 250px;
+		}
+		li {
+			line-height: 30px;
+			list-style-type: none;
+			cursor: text;
+		}
+		li span {
+			margin: 0 5px;
+		}
+		li.current {
+			background-color: #ccc !important;
+		}
+	</style>
+</head>
+<body>
+<div class="box">
+	<ul>
+		<li><span>上证指数</span><span>3641</span><span>10-5</span><span>6%</span></li>
+		<li><span>上证指数</span><span>3641</span><span>10-5</span><span>6%</span></li>
+		<li><span>上证指数</span><span>3641</span><span>10-5</span><span>6%</span></li>
+		<li><span>上证指数</span><span>3641</span><span>10-5</span><span>6%</span></li>
+		<li><span>上证指数</span><span>3641</span><span>10-5</span><span>6%</span></li>
+		<li><span>上证指数</span><span>3641</span><span>10-5</span><span>6%</span></li>
+		<li><span>上证指数</span><span>3641</span><span>10-5</span><span>6%</span></li>
+		<li><span>上证指数</span><span>3641</span><span>10-5</span><span>6%</span></li>
+		<li><span>上证指数</span><span>3641</span><span>10-5</span><span>6%</span></li>
+	</ul>
+</div>
+</body>
+<script type="text/javascript">
+	function $(id) {
+		return document.getElementById(id);
+	}
+	var lis = document.getElementsByTagName('li');
+	for(var i = 0; i < lis.length; i++) {
+		if(i % 2 == 0) {
+			lis[i].style.backgroundColor = "#eee";
+		}
+		lis[i].onmouseover = function() {
+			this.className = "current";
+		}
+		lis[i].onmouseout = function() {
+			this.className = "";
+		}
+	}
+</script>
+</html>
