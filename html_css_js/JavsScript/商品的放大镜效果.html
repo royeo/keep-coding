@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+    * {margin: 0; padding: 0}
+    .box {
+      width: 450px;
+      height: 450px;
+      margin: 100px;
+      border: 1px solid #ccc;
+      position: relative;
+    }
+    .big {
+      width: 600px;
+      height: 600px;
+      position: absolute;
+      top: 0;
+      left: 460px;
+      border: 1px solid #ccc;
+      overflow: hidden;
+      display: none;
+    }
+    .small {
+      width: 450px;
+      height: 450px;
+      position: relative;
+      overflow: hidden;
+    }
+    .mask {
+      width: 100px;
+      height: 100px;
+      background: rgba(255, 255, 0, 0.4);
+      position: absolute;
+      top: 0;
+      left: 0;
+      cursor: move;
+      display: none;
+    }
+    .big img {
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="box" id="fdj">
+    <div class="small">
+      <img src="img/small.jpg" alt="">
+      <div class="mask"></div>
+    </div>
+    <div class="big">
+      <img src="img/big.jpg" alt="">
+    </div>
+  </div>
+</body>
+</html>
+<script>
+  var fdj = document.getElementById('fdj'); // 最大的盒子
+  var small = fdj.children[0];    // 小图片的盒子
+  var big = fdj.children[1];      // 大图片的盒子
+  var mask = small.children[1];   // 黄色图片的盒子
+  var bigImage = big.children[0]; // 大图片
+
+  // 之所以没有用box来监听是因为big在box右边，鼠标滑到big上也算放在box上，所以图片不会消失
+  small.onmouseover = function() {
+    big.style.display = 'block';
+    mask.style.display = 'block';
+  };
+  small.onmouseout = function() {
+    big.style.display = 'none';
+    mask.style.display = 'none';
+  };
+
+  // 鼠标在 small 内移动, 黄色盒子移动，大图片移动
+  var imgWidth = 800;
+  var imgHeight = 800;
+  var leftPercent = small.offsetWidth / imgWidth;
+  var topPercent = small.offsetHeight / imgHeight;
+  console.log(small.offsetWidth, ', ', small.offsetHeight);
+  small.onmousemove = function(event) {
+    // 黄色盒子移动
+    var event = event || window.event;
+    var x = event.clientX - this.offsetParent.offsetLeft - mask.offsetWidth / 2;
+    var y = event.clientY - this.offsetParent.offsetTop - mask.offsetHeight / 2;
+    if (x < 0) {
+      x = 0;
+    } else if (x > small.offsetWidth - mask.offsetWidth) {
+      x = small.offsetWidth - mask.offsetWidth;
+    }
+    if (y < 0) {
+      y = 0;
+    } else if (y > small.offsetWidth - mask.offsetWidth) {
+      y = small.offsetWidth - mask.offsetWidth;
+    }
+    mask.style.left = x + 'px';
+    mask.style.top = y + 'px';
+
+    // 大图片移动
+    bigImage.style.left = - x * leftPercent + 'px';
+    bigImage.style.top = - y * topPercent + 'px';
+
+    console.log('mask: ' + x + ', ' + y);
+    console.log('bigImage: ' + (- x * leftPercent) + ', ' + (- y * topPercent));
+  };
+</script>

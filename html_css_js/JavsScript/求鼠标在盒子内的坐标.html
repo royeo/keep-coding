@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+    * {margin: 0; padding: 0}
+    .demo {
+      width: 400px;
+      height: 400px;
+      background-color: pink;
+      margin: 100px;
+    }
+  </style>
+</head>
+<body>
+  <div class="demo" id="demo"></div>
+</body>
+</html>
+<script>
+  var div = document.getElementById('demo');
+  div.onmousemove = function(event) {
+    var event = event || window.event;
+    var X = event.clientX - this.offsetLeft;
+    var Y = event.clientY - this.offsetTop;
+    this.innerHTML = 'X: ' + X + ', Y: ' + Y;
+  }
+</script>

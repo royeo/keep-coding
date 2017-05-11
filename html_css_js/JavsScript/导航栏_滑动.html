@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+    * {margin: 0; padding: 0}
+    ul {list-style: none}
+    body {
+      background-color: #333;
+    }
+    .nav {
+      width: 800px;
+      height: 42px;
+      margin: 100px auto;
+      background-color: #fff;
+      border-radius: 5px;
+      position: relative;
+    }
+    .cloud {
+      width: 83px;
+      height: 42px;
+      position: absolute;
+      top: 0;
+      left: 0;
+      background-color: green;
+    }
+    .nav ul {
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+    .nav li {
+      float: left;
+      width: 83px;
+      height: 42px;
+      line-height: 42px;
+      text-align: center;
+      color: #000;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="nav" id='nav'>
+    <span class="cloud" id='cloud'></span>
+    <ul>
+      <li>首页新闻</li>
+      <li>师资力量</li>
+      <li>活动策划</li>
+      <li>企业文化</li>
+      <li>招聘信息</li>
+      <li>公司简介</li>
+      <li>上海校区</li>
+      <li>广州校区</li>
+    </ul>
+  </div>
+</body>
+</html>
+<script>
+  var cloud = document.getElementById('cloud');
+  var nav = document.getElementById('nav');
+  var lis = nav.children[1].children;
+  var current = 0;
+  for (var i = 0; i < lis.length; i++) {
+    lis[i].onmouseover = function() {
+      target = this.offsetLeft;
+    }
+    lis[i].onmouseout = function() {
+      target = current;
+    }
+    lis[i].onclick = function() {
+      current = this.offsetLeft;
+    }
+  }
+  var leader = 0;
+  var target = 0;
+  setInterval(function() {
+    leader = leader + (target - leader) / 10;
+    cloud.style.left = leader + 'px';
+  }, 10);
+</script>

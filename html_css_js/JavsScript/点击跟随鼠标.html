@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+    #pic {
+      width: 100px;
+      height: 100px;
+      background-color: red;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="pic"></div>
+</body>
+</html>
+<script>
+  var image = document.getElementById('pic');
+  var leaderX = 0;
+  var leaderY = 0;
+  var targetX = 0;
+  var targetY = 0;
+
+  document.onmousemove = function(event) {
+    var event = event || window.event;
+    targetX = event.clientX - image.offsetWidth / 2;   // 减去盒子宽高的一半，使鼠标的位置正好在盒子的中心
+    targetY = event.clientY - image.offsetHeight / 2;
+  };
+
+  setInterval(function() {
+    leaderX = leaderX + (targetX - leaderX) / 10;
+    leaderY = leaderY + (targetY - leaderY) / 10;
+    image.style.left = leaderX + 'px';
+    image.style.top = leaderY + 'px';
+  })
+</script>
