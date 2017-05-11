@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+    * {margin: 0; padding: 0}
+    body {
+      height: 2000px;
+    }
+		.header{
+			height: 50px;
+			background-color: #191D3A;
+		}
+    .header .login-btn {
+      margin-top: 9px;
+      margin-right: 20px;
+      float: right;   
+    }
+    .header .login-btn a {
+      display: block;
+      width: 100px;
+      height: 32px;
+      background-color: #38B774;
+      /*IE8开始兼容：CSS3课上介绍*/
+			/*做圆角的：*/
+			border-radius: 4px;
+      text-align: center;
+      line-height: 32px;
+      text-decoration: none;
+      color: #fff;
+      font-size: 14px;
+    }
+    .header .login-btn a:hover {
+      background-color: #48C784;
+    }
+    .login-box {
+      width: 400px;
+      height: 300px;
+      border: 1px solid #000;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      margin-left: -200px;
+      margin-top: -150px;
+      z-index: 1000;
+      display: none;
+    }
+    .login-box .close {
+      display: block;
+      height: 40px;
+      width: 40px;
+      line-height: 40px;
+      text-align: center;
+      position: absolute;
+      right: 0;
+      top: 0;
+      cursor: pointer;
+      color: #fff;
+    }
+    .login-box .login-header {
+      height: 40px;
+      background-color: #191D3A;
+      color: #fff;
+      text-align: center;
+      line-height: 40px;
+      cursor: move;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="login-btn" id="login-btn">
+      <a href="#">注册</a>
+    </div>
+  </div>
+  <div class="content">
+    <div class="login-box" id="login-box">
+      <div class="login-header">注册账号</div>
+      <span class="close" id="close">X</span>
+    </div>
+  </div>
+
+</body>
+</html>
+<script>
+  var loginBtn = document.getElementById('login-btn');
+  var loginBox = document.getElementById('login-box');
+  var close = document.getElementById('close');
+  var loginHeader = loginBox.children[0];
+  loginBtn.onclick = function() {
+    loginBox.style.display = 'block';
+  };
+
+  close.onclick = function() {
+    loginBox.style.display = 'none';
+  };
+
+  loginHeader.onmousedown = function(event) {
+    var event = event || window.event;
+    var x = event.clientX - this.offsetParent.offsetLeft;
+    var y = event.clientY - this.offsetParent.offsetTop;
+    console.log('鼠标点击位置：' + x + ', ' + y);
+    console.log(`盒子的位置：left(${loginBox.style.left}), top(${loginBox.style.top})`);
+    document.onmousemove = function(event) {
+      var event = event || window.event;
+      loginBox.style.left = event.clientX - x + 200 + 'px';
+      loginBox.style.top = event.clientY - y + 150 + 'px';
+      console.log('鼠标移动到的位置：' + event.clientX + ', ' + event.clientY);
+      console.log('盒子移动到的位置: ' + loginBox.style.left + ', ' + loginBox.style.top);
+      // console.log(event.clientX, ', ', loginBox.style.top);
+      window.getSelection ? window.getSelection().removeAllRanges() : document.selection.empty()
+    };
+    document.onmouseup = function() {
+      document.onmousemove = null;
+    };
+  };
+</script>
