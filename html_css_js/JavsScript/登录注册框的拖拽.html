@@ -94,6 +94,8 @@
 
   close.onclick = function() {
     loginBox.style.display = 'none';
+    loginBox.style.left = '50%';
+    loginBox.style.top = '50%';
   };
 
   loginHeader.onmousedown = function(event) {
@@ -108,7 +110,6 @@
       loginBox.style.top = event.clientY - y + 150 + 'px';
       console.log('鼠标移动到的位置：' + event.clientX + ', ' + event.clientY);
       console.log('盒子移动到的位置: ' + loginBox.style.left + ', ' + loginBox.style.top);
-      // console.log(event.clientX, ', ', loginBox.style.top);
       window.getSelection ? window.getSelection().removeAllRanges() : document.selection.empty()
     };
     document.onmouseup = function() {
